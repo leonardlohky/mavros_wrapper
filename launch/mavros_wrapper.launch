@@ -1,0 +1,5 @@
+<launch>>
+
+  <node pkg="mavros_wrapper" type="mavros_node.py" name="mavros_node" output="screen" />
+  
+</launch>
